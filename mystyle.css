@@ -1,0 +1,66 @@
+body {
+  background-image: url("./images/engineering-background.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#information {
+  width:800px;
+  background-color:white;
+  margin-left: auto;
+  margin-right:auto;
+  margin-bottom:30px;
+}
+h1 {
+  color: white;
+  text-align:center;
+  background-color:rgb(20, 40, 82);
+  padding:20px;
+  border:10px solid white;
+  font-size: 270%;
+}
+a {
+  color:white;
+  padding:5px;
+  font-size:150%;
+  text-decoration: none;
+}
+#linktd:hover, #linktd:active {
+  background-color: rgb(39, 79, 165);
+}
+#links {
+  margin-left: auto;
+  margin-right: auto;
+  text-align:center;
+}
+#linktd {
+  width: 184px;
+  height:40px;
+  background-color:rgb(20, 40, 82);
+}
+h3 {
+  margin-left: 15px;
+  color:rgb(20, 40, 82);
+  font-size:150%;
+}
+p {
+  margin-left: 15px;
+  margin-right: 15px;
+}
+table, th, td {
+  border-collapse:collapse;
+  border:1px solid rgb(20, 40, 82);
+  padding:5px;
+  margin-left: 15px;
+  margin-right: 15px;
+  text-align:center;
+}
+#headers {
+  background-color:rgb(20, 40, 82);
+  color:white;
+}
+#credit {
+  background-color:rgb(20, 40, 82);
+  color:white;
+  padding:10px;
+  text-align:center;
+}
